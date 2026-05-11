@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-weight: bold; color: white; text-decoration: underline; font-variant: small-caps;">Deep Learning based Typeface Recognition - Frontend</h1>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://typeface-recognition.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://typeface-prediction-model.streamlit.app/)
 
 Deep Learning based model to predict the Typeface used in a given image.
 
