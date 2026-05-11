@@ -1,0 +1,9 @@
+torch>=2.11.0
+torchvision
+
+streamlit
+streamlit-cropper
+
+numpy
+pandas
+pillow
