@@ -4,7 +4,7 @@
 
 Deep Learning based model to predict the Typeface used in a given image.
 
-[Click here](https://typeface-recognition.streamlit.app) for an interactive
+[Click here](https://typeface-prediction-model.streamlit.app/) for an interactive
 front-end demo.
 
 The "[demo samples](demo%20samples/)" folder contains sample images, which can
