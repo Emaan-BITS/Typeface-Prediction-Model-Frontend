@@ -7,10 +7,10 @@ Deep Learning based model to predict the Typeface used in a given image.
 [Click here](https://typeface-prediction-model.streamlit.app/) for an interactive
 front-end demo.
 
-The "[demo samples](demo%20samples/)" folder contains sample images, which can
+The "[demo samples](https://github.com/Emaan-BITS/Typeface-Prediction-Model-Frontend/tree/main/demo%20samples)" folder contains sample images, which can
 be used to test the model.
 
-[Click here](https://github.com/SreenikethanI/Typeface-Recognition-Model) to
+[Click here](https://github.com/Emaan-BITS/Typeface-Prediction-Model) to
 view the **source code** for training and testing the model.
 
 # **Quick start**
